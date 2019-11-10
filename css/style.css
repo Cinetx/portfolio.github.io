@@ -63,7 +63,7 @@ body {
 
 .about-me {
   background-color: black;
-  background-image: url("/images/ME.jpg");
+  background-image: url("../images/ME.jpg");
   background-repeat: no-repeat;
   background-position: 20% 40%;
   filter: gray;
@@ -167,13 +167,13 @@ body {
   transition: 0.9s; }
 
 .work__img--pink {
-  background-image: url("/images/pink-index-desktop.png"); }
+  background-image: url("../images/pink-index-desktop.png"); }
 
 .work__img--neds {
-  background-image: url("/images/nerds-index.png"); }
+  background-image: url("../images/nerds-index.png"); }
 
 .work__img--test {
-  background-image: url("/images/test-maket_desktop.png"); }
+  background-image: url("../images/test-maket_desktop.png"); }
 
 .col {
   width: 240px;
@@ -215,13 +215,13 @@ body {
   /* Microsoft Edge and Firefox 35+ */ }
 
 .work__img--pink--back {
-  background-image: url("/images/pink-index-desktop.png"); }
+  background-image: url("../images/pink-index-desktop.png"); }
 
 .work__img--nerds--back {
-  background-image: url("/images/nerds-index.png"); }
+  background-image: url("../images/nerds-index.png"); }
 
 .work__img--test--back {
-  background-image: url("/images/test-maket_desktop.png"); }
+  background-image: url("../images/test-maket_desktop.png"); }
 
 .front:after {
   position: absolute;
