@@ -145,16 +145,17 @@ body {
   letter-spacing: 2px; }
 
 .portfolio-title {
-  font-size: 40px;
-  width: 330px;
   margin: 0 auto;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  text-align: center;
-  color: black; }
+  padding-top: 0px;
+  height: 90px;
+  width: 350px; }
 
 .svg-title {
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 90px; }
 
 .about-me {
   background-color: black;
@@ -225,12 +226,16 @@ body {
       width: auto;
       margin: 0; }
     .about-me__title {
-      color: black; }
+      color: black;
+      text-align: center;
+      margin-top: 140px; }
     .about-me__text {
       color: black;
       width: auto;
       text-align: center;
-      margin: 0 auto; } }
+      margin: 0 auto;
+      font-size: 24px;
+      padding: 20px; } }
 
 .navigation {
   display: flex;
@@ -568,7 +573,9 @@ body {
     width: 940px;
     border-color: rgba(0, 0, 0, 0.3);
     transition: 0.9s;
-    margin: 0 auto; }
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px; }
   .my-skills__test:hover {
     border-color: black;
     transition: 0.9s; }
@@ -610,7 +617,8 @@ body {
     border-left: none;
     border-right: none;
     transition: 0.9s;
-    margin: 0 auto; }
+    margin: 0 auto;
+    margin-top: 80px; }
   .my-skills__test:hover {
     border-color: black;
     transition: 0.9s; }
