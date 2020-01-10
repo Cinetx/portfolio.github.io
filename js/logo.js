@@ -54,16 +54,16 @@ linkLessLogo.addEventListener("mouseout" ,function(){
   svgLessLogo.classList.remove("logo-animation");
 });
 
-var linkCssLogo = document.querySelector(".css-logo__link");
-var svgCssLogo = document.querySelector(".css-logo");
+// var linkCssLogo = document.querySelector(".css-logo__link");
+// var svgCssLogo = document.querySelector(".css-logo");
 
-linkCssLogo.addEventListener("mouseover" ,function(){
-  svgCssLogo.classList.add("logo-animation");
-});
+// linkCssLogo.addEventListener("mouseover" ,function(){
+//   svgCssLogo.classList.add("logo-animation");
+// });
 
-linkCssLogo.addEventListener("mouseout" ,function(){
-  svgCssLogo.classList.remove("logo-animation");
-});
+// linkCssLogo.addEventListener("mouseout" ,function(){
+//   svgCssLogo.classList.remove("logo-animation");
+// });
 
 var linkBEMLogo = document.querySelector(".BEM-logo__link");
 var svgBEMLogo = document.querySelector(".BEM-logo");
