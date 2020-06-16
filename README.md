@@ -5,5 +5,5 @@
 Использую sass и less.
 Применяю Grid, Flex.
 Пользуюсь БЭМом.
-Немного оживляю JavaScriptом.
-На данный момент изучаю WordPress и JS.
+Использую JavaScript для оживления сайта.
+Работаю с CMS WordPress
