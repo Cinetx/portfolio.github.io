@@ -408,6 +408,10 @@ body {
   background-image: url("../images/hadaev-index.png");
   background-position: 0% 90% !important; }
 
+.work__img--moneykepper {
+  background-image: url("../images/moneykepper.png");
+  background-position: 0% 90% !important; }
+
 .work__img--pink {
   background-image: url("../images/pink-index-desktop.png"); }
 
@@ -458,6 +462,10 @@ body {
 
 .work__img--hadaev--back {
   background-image: url("../images/hadaev-index.png");
+  background-size: cover; }
+
+.work__img--moneykepper--back {
+  background-image: url("../images/moneykepper.png");
   background-size: cover; }
 
 .work__img--pink--back {
@@ -519,7 +527,7 @@ body {
   transform-style: preserve-3d; }
 
 .front .inner p {
-  font-size: 2rem;
+  font-size: 1.2rem;
   margin-bottom: 2rem;
   position: relative; }
 
