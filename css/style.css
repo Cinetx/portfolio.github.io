@@ -412,6 +412,34 @@ body {
   background-image: url("../images/moneykepper.png");
   background-position: 0% 90% !important; }
 
+.work__img--pincet {
+  background-image: url("../images/pincet.jpeg");
+  background-position: 20% 10%; }
+
+.work__img--pincet--back {
+  background-image: url("../images/pincet.jpeg");
+  background-position: 20% 10%; }
+
+.work__img--djstore {
+  background-image: url("../images/djstore.png"); }
+
+.work__img--djstore--back {
+  background-image: url("../images/djstore.png"); }
+
+.work__img--lider {
+  background-image: url("../images/liderprodah.png");
+  background-position: 50% 20%; }
+
+.work__img--lider--back {
+  background-image: url("../images/liderprodah.png");
+  background-position: 50% 20%; }
+
+.work__img--wellspa {
+  background-image: url("../images/wellspa.png"); }
+
+.work__img--wellspa--back {
+  background-image: url("../images/wellspa.png"); }
+
 .work__img--pink {
   background-image: url("../images/pink-index-desktop.png"); }
 
